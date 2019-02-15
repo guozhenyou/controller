@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### mine template template
+# IDE-IDEA
+*.iml
+.idea/
+
+# JAVA
+target/
